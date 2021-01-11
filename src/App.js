@@ -1,11 +1,11 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import AddFunds from "./components/AddFunds";
-import AllTransactions from "./components/AllTransactions";
-import AllWallets from "./components/AllWallets";
-import CheckBalance from "./components/CheckBalance";
-import NewWallets from "./components/NewWallets";
-import SpendFunds from "./components/SpendFunds";
+import AddFunds from "./AddFunds";
+import AllTransactions from "./AllTransactions";
+import AllWallets from "./AllWallets";
+import CheckBalance from "./CheckBalance";
+import NewWallets from "./NewWallets";
+import SpendFunds from "./SpendFunds";
 import { Navbar, Nav } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
